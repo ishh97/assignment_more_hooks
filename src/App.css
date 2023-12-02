@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:cornflowerblue;
+    font-size: 25px;
+    color: white;
+}
+.inputDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 30px;
+}
+input{
+    height: 30px;
+    width: 200px;
+}
+button{
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+}
+.content{
+    text-align: center;
+}
+p{
+    margin: 10px 30px;
+    background-color:palevioletred;
+    height: 30px;
+    padding: 20px;
+    
+}
